@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png" />
+    <img alt="Vue logo" src="./assets/dedao.png" />
     <!-- <HelloWorld msg="Welcome to Your Vue.js App" /> -->
     <Perf title="iOS 性能数据"/>
   </div>
